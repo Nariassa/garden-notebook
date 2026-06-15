@@ -52,6 +52,7 @@ No installation, no dependencies — just pure HTML/CSS/JS.
 ---
 
 ## 🧩 File Structure
+
 garden-notebook/
 ├── garden-notebook.html
 ├── README.md # This file
