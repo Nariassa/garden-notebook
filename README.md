@@ -45,7 +45,7 @@ No installation, no dependencies — just pure HTML/CSS/JS.
 
 | To-Do Forest | Habit Greenhouse |
 |--------------|------------------|
-| 🌲🌳🌴 | 🌱🪴🌿 |
+| 🌲🌳🌴 | 🌱🌿🌳 |
 
 | Monthly Flowerbed | Weekly Meadow |
 |------------------|---------------|
