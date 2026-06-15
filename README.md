@@ -41,8 +41,6 @@ No installation, no dependencies — just pure HTML/CSS/JS.
 
 ## 📸 Visual Preview
 
-*(Add actual screenshots here)*
-
 | To-Do Forest | Habit Greenhouse |
 |--------------|------------------|
 | 🌲🌳🌴 | 🌱🌿🌳 |
