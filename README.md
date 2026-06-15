@@ -65,9 +65,9 @@ garden-notebook/
 Just clone and open:
 
 ```bash
-git clone https://github.com/your-username/garden-notebook.git
+git clone https://github.com/nariassa/garden-notebook.git
 cd garden-notebook
-# Open index.html in your browser
+# Open garden-notebook.html in your browser
 Or use Live Server in VS Code.
 ```
 ---
