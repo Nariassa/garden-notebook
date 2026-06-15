@@ -28,12 +28,6 @@ Garden Notebook transforms boring productivity tracking into a delightful, visua
 
 ---
 
-## 🚀 Live Demo
-
-[View Demo](https://your-username.github.io/garden-notebook)
-
----
-
 ## 🛠️ How to Use
 
 1. Open `index.html` in any modern browser
@@ -76,13 +70,15 @@ cd garden-notebook
 # Open index.html in your browser
 Or use Live Server in VS Code.
 ```
-
+---
 ## 📄 PDF Export
 The app uses html2pdf.js to generate landscape A4 PDFs that preserve:
 1. All four garden sections with page breaks
 2. Visual plant growth states
 3. Calendar grids and timelines
 4. Meadow animal positions
+
+---
 
 ## 🗃️ Data Persistence
 All data is saved to localStorage under the key garden-notebook-v1. Clear your browser data to reset.
